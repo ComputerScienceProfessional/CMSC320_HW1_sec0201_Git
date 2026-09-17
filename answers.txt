@@ -9,3 +9,7 @@ Answer: Data science can be applied to the financial field, such as marketing, t
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing replays the changes made.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Finishing it with good grades.
