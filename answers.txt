@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the financial field, such as marketing, to analyze data and use it to improve marketing techniques or audiences. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing replays the changes made.
